@@ -1,3 +1,7 @@
+## SQL Challenge
+Please view the (My SQL file)[ec_sql.sql] to review code for task below
+
+
 ## Homework Assignment
 
 * 1a. Display the first and last names of all actors from the table `actor`. 
