@@ -1,5 +1,5 @@
 ## SQL Challenge
-Please view the (My SQL file)[ec_sql.sql] to review code for task below
+Please view the (My SQL file)[sql_challenge/blob/master/ec_sql.sql] to review code for task below
 
 
 ## Homework Assignment
